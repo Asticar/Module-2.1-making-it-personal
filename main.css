@@ -13,6 +13,13 @@ body{
     color: whitesmoke;
 }
 
+h1{
+    border-style: dotted;
+    border-color:blueviolet;
+    border-radius: 12px;
+    padding: 5px;
+}
+
 nav{
     height: 6000px;
     width: 200px;
